@@ -1,0 +1,12 @@
+what is doctype: represents the version we are using
+what are the types of headings? h1 to h6 are the headings
+what is b tag and i tag? b is for bold text and i is for italic text
+what is paired tag and what is unpaired tag?
+
+paired tag : h1 to h6 
+
+unpaired : hr
+
+what is block level and what is inline
+block level : occupies the entire row : h1 to h6, div, p, section etc...
+inline : comes side by side
